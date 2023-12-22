@@ -1,6 +1,7 @@
 <img src="./ICT-BFW-FB.png" width="100" height="100"> <!-- Remplacez URL_du_logo par l'URL de votre logo et ajustez width et height selon vos besoins -->
 # Hello, I'm Jonathan, a Full-Stack Web Developer
 
+
 ## My skills
 
 ### Frontend
