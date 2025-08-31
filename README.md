@@ -4,6 +4,9 @@
 
 <h1 align="center">Hello, I'm Jonathan 👋</h1>
 <h3 align="center">Full-Stack Web Developer | AI & CAD Enthusiast | Educator</h3>
+<p align="center">
+  <a href="https://jonathan-nac.fr/" target="_blank">🔗 Visit my website</a>
+</p>
 
 ---
 
@@ -54,6 +57,21 @@
 ### 🏗️ CAD & Engineering
 - SolidWorks (Base, Intermédiaire, Avancé, Assemblage, Mise en plan, Simulation, Rendu réaliste)
 - Gestion de projet
+
+---
+
+## 📚 Trainings I Provide
+
+- Python (Bases, Intermédiaire, Avancé)  
+- HTML / CSS / Référencement  
+- SCSS / JavaScript / Vue.js / Tailwind / HTMX  
+- SQL / Git & GitHub / GitLab  
+- Django / Django REST / Django PWA / Django Webpush  
+- Flask / FastAPI / Kivy / Tkinter / PyQt5 / Pygame  
+- Machine Learning / Deep Learning / Fine Tuning / Scraping  
+- Docker / Bash / PowerShell / VSCode / Nginx  
+- Figma / Gestion de projet  
+- SolidWorks (all levels and modules)
 
 ---
 
